@@ -1,4 +1,4 @@
-﻿name = str(input('Введите ваше имя'))
+﻿name = input('Введите ваше имя')
 age = int(input('Введите ваш возраст'))
 
 age = age - 18
