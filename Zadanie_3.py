@@ -11,6 +11,14 @@ d = math.sqrt(d)
 
 
 print (d)
+if d > 0:
+	x1 = -b-d/2*a
+	x2 = -b+d/2*a
+print(x1,x2)
+else:
+ x = -b/2*a
+print(x)
+
 
 
 
